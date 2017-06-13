@@ -1,0 +1,22 @@
+{
+  "name": "functional-blog-pattern",
+  "version": "0.0.2",
+  "description": "functional blog pattern inspired by cosmopol.is",
+  "main": "src/build.js",
+  "scripts": {
+    "build": "cd src; node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahrjarrett/functional-blog-pattern.git"
+  },
+  "author": "Andrew Jarrett <ahrjarrett@gmail.com> (https://github.com/ahrjarrett)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahrjarrett/functional-blog-pattern/issues"
+  },
+  "homepage": "https://github.com/ahrjarrett/functional-blog-pattern#readme",
+  "dependencies": {
+    "markdown": "0.5.0"
+  }
+}
